@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @shresth19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Myself Shresth kumar
 
-<!---
-shresth19/shresth19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Student  at PANJAB UNIVERSITY,Chandigarh**
+
+## About Me
+
+- I’m currently learnig Data Science and AI and have some experince in Data Analysis. 
+- I have a beginner level knowledge of Python.
+
+## Connect with me across platforms:
+
+<a href="www.linkedin.com/in/shresth-kumar-214195216">
+  <img src="https://img.shields.io/badge/Connect-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frohit-kumar-choudhary-68900522b%2F" />
+</a>
+<a href="https://x.com/Shresth33599700">
+  <img src="https://img.shields.io/badge/Follow-%23000000?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Frohitspeaks1" />
+</a>
+<br />
+<br />

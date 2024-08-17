@@ -4,8 +4,9 @@
 
 ## About Me
 
-- I’m currently learnig Data Science and AI and have some experince in Data Analysis. 
-- I have a beginner level knowledge of Python.
+- I’m currently learnig Data Science and I am very interested in Machine Learning and Artificial Intelligence and their several applications. 
+- I have a beginner level knowledge of Python and some experince in Data Analysis.
+- I am proficient in Power BI, SQL . 
 
 ## Connect with me across platforms:
 

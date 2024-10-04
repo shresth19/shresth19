@@ -6,7 +6,7 @@
 
 - I’m currently learnig Data Science and I am very interested in Machine Learning and Artificial Intelligence and their several applications. 
 - I have a beginner level knowledge of Python and some experince in Data Analysis.
-- I am proficient in Power BI, SQL . 
+- I am proficient in Power BI, SQL,Excel . 
 
 ## Connect with me across platforms:
 
